@@ -1,9 +1,9 @@
 ---
 s3_config:
-  - access_key: F2R10F1X1S8FELP98472
-    secret_key: EicpPYHrCAC2p5o0bkrApOXDxCCICaAfDwyBWS8b
+  - access_key: 
+    secret_key: 
     region: us-east-1 
-    endpoint: http://172.31.63.92:80/
+    endpoint: 
     skipSSLverify: false 
 
 # For generating annotations when we start/stop testcases
